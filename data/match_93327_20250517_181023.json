@@ -1,0 +1,3358 @@
+{
+  "id": 93327,
+  "kick_off": {
+    "completeness": 3,
+    "millis": 1691848800000,
+    "label": "Sat 12 Aug 2023, 15:00 BST",
+    "gmtOffset": 1.0
+  },
+  "teams": [
+    {
+      "team": {
+        "name": "Sheffield United",
+        "club": {
+          "name": "Sheffield United",
+          "shortName": "Sheffield Utd",
+          "abbr": "SHU",
+          "id": 18
+        },
+        "teamType": "FIRST",
+        "shortName": "Sheffield Utd",
+        "id": 18,
+        "altIds": {
+          "opta": "t49"
+        }
+      },
+      "score": 0
+    },
+    {
+      "team": {
+        "name": "Crystal Palace",
+        "club": {
+          "name": "Crystal Palace",
+          "shortName": "Crystal Palace",
+          "abbr": "CRY",
+          "id": 6
+        },
+        "teamType": "FIRST",
+        "shortName": "Crystal Palace",
+        "id": 6,
+        "altIds": {
+          "opta": "t31"
+        }
+      },
+      "score": 1
+    }
+  ],
+  "ground": {
+    "name": "Bramall Lane",
+    "city": "Sheffield",
+    "source": "OPTA",
+    "id": 2003
+  },
+  "clock": {
+    "secs": 5760,
+    "label": "90 +6'00"
+  },
+  "halfTimeScore": {
+    "homeScore": 0,
+    "awayScore": 0
+  },
+  "teamLists": [
+    {
+      "teamId": 18,
+      "lineup": [
+        {
+          "matchPosition": "D",
+          "matchShirtNumber": 19,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "D",
+            "shirtNum": 19,
+            "positionInfo": "Left Full Back"
+          },
+          "nationalTeam": {
+            "isoCode": "GB-ENG",
+            "country": "England",
+            "demonym": "English"
+          },
+          "birth": {
+            "date": {
+              "millis": 746841600000,
+              "label": "1 September 1993"
+            },
+            "country": {
+              "isoCode": "GB-ENG",
+              "country": "England",
+              "demonym": "English"
+            }
+          },
+          "age": "29 years 345 days",
+          "name": {
+            "display": "Jack Robinson",
+            "first": "Jack",
+            "last": "Robinson"
+          },
+          "id": 3902,
+          "altIds": {
+            "opta": "p83427"
+          }
+        },
+        {
+          "matchPosition": "M",
+          "matchShirtNumber": 2,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "D",
+            "shirtNum": 2,
+            "positionInfo": "Right Full Back"
+          },
+          "nationalTeam": {
+            "isoCode": "GR",
+            "country": "Greece",
+            "demonym": "Greek"
+          },
+          "birth": {
+            "date": {
+              "millis": 731635200000,
+              "label": "9 March 1993"
+            },
+            "country": {
+              "isoCode": "GB-ENG",
+              "country": "England",
+              "demonym": "English"
+            }
+          },
+          "age": "30 years 156 days",
+          "name": {
+            "display": "George Baldock",
+            "first": "George",
+            "middle": "Henry Ivor",
+            "last": "Baldock"
+          },
+          "id": 9169,
+          "altIds": {
+            "opta": "p82691"
+          }
+        },
+        {
+          "matchPosition": "D",
+          "matchShirtNumber": 12,
+          "captain": true,
+          "playerId": 0,
+          "info": {
+            "position": "D",
+            "shirtNum": 12,
+            "positionInfo": "Centre Central Defender"
+          },
+          "nationalTeam": {
+            "isoCode": "IE",
+            "country": "Ireland",
+            "demonym": "Irish"
+          },
+          "birth": {
+            "date": {
+              "millis": 719539200000,
+              "label": "20 October 1992"
+            },
+            "country": {
+              "isoCode": "IE",
+              "country": "Ireland",
+              "demonym": "Irish"
+            }
+          },
+          "age": "30 years 296 days",
+          "name": {
+            "display": "John Egan",
+            "first": "John",
+            "last": "Egan"
+          },
+          "id": 4394,
+          "altIds": {
+            "opta": "p108416"
+          }
+        },
+        {
+          "matchPosition": "D",
+          "matchShirtNumber": 15,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "D",
+            "shirtNum": 15,
+            "positionInfo": "Centre Central Defender"
+          },
+          "nationalTeam": {
+            "isoCode": "BA",
+            "country": "Bosnia & Herzegovina",
+            "demonym": "Bosnian"
+          },
+          "birth": {
+            "date": {
+              "millis": 922406400000,
+              "label": "26 March 1999"
+            },
+            "country": {
+              "isoCode": "SE",
+              "country": "Sweden",
+              "demonym": "Swedish"
+            },
+            "place": "Malmö"
+          },
+          "age": "24 years 139 days",
+          "name": {
+            "display": "Anel Ahmedhodzic",
+            "first": "Anel",
+            "last": "Ahmedhodzic"
+          },
+          "id": 20855,
+          "altIds": {
+            "opta": "p233821"
+          }
+        },
+        {
+          "matchPosition": "M",
+          "matchShirtNumber": 6,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "D",
+            "shirtNum": 6,
+            "positionInfo": "Centre Central Defender"
+          },
+          "nationalTeam": {
+            "isoCode": "GB-ENG",
+            "country": "England",
+            "demonym": "English"
+          },
+          "birth": {
+            "date": {
+              "millis": 585360000000,
+              "label": "20 July 1988"
+            },
+            "country": {
+              "isoCode": "GB-ENG",
+              "country": "England",
+              "demonym": "English"
+            }
+          },
+          "age": "35 years 23 days",
+          "name": {
+            "display": "Chris Basham",
+            "first": "Chris",
+            "last": "Basham"
+          },
+          "id": 3581,
+          "altIds": {
+            "opta": "p40386"
+          }
+        },
+        {
+          "matchPosition": "F",
+          "matchShirtNumber": 11,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "F",
+            "shirtNum": 11,
+            "positionInfo": "Striker"
+          },
+          "nationalTeam": {
+            "isoCode": "CI",
+            "country": "Cote D’Ivoire",
+            "demonym": "Ivorian"
+          },
+          "birth": {
+            "date": {
+              "millis": 1038614400000,
+              "label": "30 November 2002"
+            },
+            "country": {
+              "isoCode": "CI",
+              "country": "Cote D’Ivoire",
+              "demonym": "Ivorian"
+            }
+          },
+          "age": "20 years 255 days",
+          "name": {
+            "display": "Bénie Traoré",
+            "first": "Bénie",
+            "last": "Traoré"
+          },
+          "id": 136982,
+          "altIds": {
+            "opta": "p523957"
+          }
+        },
+        {
+          "matchPosition": "M",
+          "matchShirtNumber": 3,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "D",
+            "shirtNum": 3,
+            "positionInfo": "Left Full Back"
+          },
+          "nationalTeam": {
+            "isoCode": "GB-ENG",
+            "country": "England",
+            "demonym": "English"
+          },
+          "birth": {
+            "date": {
+              "millis": 863308800000,
+              "label": "11 May 1997"
+            },
+            "country": {
+              "isoCode": "GB-ENG",
+              "country": "England",
+              "demonym": "English"
+            }
+          },
+          "age": "26 years 93 days",
+          "name": {
+            "display": "Max Lowe",
+            "first": "Max",
+            "last": "Lowe"
+          },
+          "id": 8578,
+          "altIds": {
+            "opta": "p155197"
+          }
+        },
+        {
+          "matchPosition": "G",
+          "matchShirtNumber": 18,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "G",
+            "shirtNum": 18,
+            "positionInfo": "Goalkeeper"
+          },
+          "nationalTeam": {
+            "isoCode": "GB-ENG",
+            "country": "England",
+            "demonym": "English"
+          },
+          "birth": {
+            "date": {
+              "millis": 663811200000,
+              "label": "14 January 1991"
+            },
+            "country": {
+              "isoCode": "GB-ENG",
+              "country": "England",
+              "demonym": "English"
+            }
+          },
+          "age": "32 years 210 days",
+          "name": {
+            "display": "Wes Foderingham",
+            "first": "Wes",
+            "last": "Foderingham"
+          },
+          "id": 3881,
+          "altIds": {
+            "opta": "p82143"
+          }
+        },
+        {
+          "matchPosition": "M",
+          "matchShirtNumber": 16,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "M",
+            "shirtNum": 16,
+            "positionInfo": "Centre Central Midfielder"
+          },
+          "nationalTeam": {
+            "isoCode": "GB-NIR",
+            "country": "Northern Ireland",
+            "demonym": "Northern Irish"
+          },
+          "birth": {
+            "date": {
+              "millis": 671414400000,
+              "label": "12 April 1991"
+            },
+            "country": {
+              "isoCode": "GB-ENG",
+              "country": "England",
+              "demonym": "English"
+            },
+            "place": "Burnley"
+          },
+          "age": "32 years 122 days",
+          "name": {
+            "display": "Oliver Norwood",
+            "first": "Oliver",
+            "middle": "James",
+            "last": "Norwood"
+          },
+          "id": 3924,
+          "altIds": {
+            "opta": "p79934"
+          }
+        },
+        {
+          "matchPosition": "F",
+          "matchShirtNumber": 23,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "M",
+            "shirtNum": 23,
+            "positionInfo": "Centre Central Midfielder"
+          },
+          "nationalTeam": {
+            "isoCode": "GB-ENG",
+            "country": "England",
+            "demonym": "English"
+          },
+          "birth": {
+            "date": {
+              "millis": 776044800000,
+              "label": "5 August 1994"
+            },
+            "country": {
+              "isoCode": "GB-ENG",
+              "country": "England",
+              "demonym": "English"
+            }
+          },
+          "age": "29 years 7 days",
+          "name": {
+            "display": "Ben Osborn",
+            "first": "Ben",
+            "middle": "Jarrod",
+            "last": "Osborn"
+          },
+          "id": 9266,
+          "altIds": {
+            "opta": "p167878"
+          }
+        },
+        {
+          "matchPosition": "F",
+          "matchShirtNumber": 32,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "F",
+            "shirtNum": 32,
+            "positionInfo": "Centre Striker"
+          },
+          "nationalTeam": {
+            "isoCode": "DK",
+            "country": "Denmark"
+          },
+          "birth": {
+            "date": {
+              "millis": 1059955200000,
+              "label": "4 August 2003"
+            },
+            "country": {
+              "isoCode": "DK",
+              "country": "Denmark"
+            },
+            "place": "Aarhus"
+          },
+          "age": "20 years 8 days",
+          "name": {
+            "display": "William Osula",
+            "first": "William",
+            "last": "Osula"
+          },
+          "id": 114590,
+          "altIds": {
+            "opta": "p538207"
+          }
+        }
+      ],
+      "substitutes": [
+        {
+          "matchPosition": "F",
+          "matchShirtNumber": 39,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "F",
+            "shirtNum": 39,
+            "positionInfo": "Forward"
+          },
+          "nationalTeam": {
+            "isoCode": "GB-ENG",
+            "country": "England",
+            "demonym": "English"
+          },
+          "birth": {
+            "date": {
+              "millis": 1079740800000,
+              "label": "20 March 2004"
+            },
+            "country": {
+              "isoCode": "GB-ENG",
+              "country": "England",
+              "demonym": "English"
+            }
+          },
+          "age": "19 years 145 days",
+          "name": {
+            "display": "Antwoine Hackford",
+            "first": "Antwoine",
+            "last": "Hackford"
+          },
+          "id": 83496,
+          "altIds": {
+            "opta": "p487836"
+          }
+        },
+        {
+          "matchPosition": "M",
+          "matchShirtNumber": 25,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "M",
+            "shirtNum": 25,
+            "positionInfo": "Central Midfielder"
+          },
+          "nationalTeam": {
+            "isoCode": "TN",
+            "country": "Tunisia",
+            "demonym": "Tunisian"
+          },
+          "birth": {
+            "date": {
+              "millis": 984700800000,
+              "label": "16 March 2001"
+            },
+            "country": {
+              "isoCode": "DK",
+              "country": "Denmark"
+            }
+          },
+          "age": "22 years 149 days",
+          "name": {
+            "display": "Anis Ben Slimane",
+            "first": "Anis",
+            "last": "Ben Slimane"
+          },
+          "id": 118095,
+          "altIds": {
+            "opta": "p504198"
+          }
+        },
+        {
+          "matchPosition": "D",
+          "matchShirtNumber": 27,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "D",
+            "shirtNum": 27,
+            "positionInfo": "Left Full Back",
+            "loan": true
+          },
+          "nationalTeam": {
+            "isoCode": "DZ",
+            "country": "Algeria",
+            "demonym": "Algerian"
+          },
+          "birth": {
+            "date": {
+              "millis": 978307200000,
+              "label": "1 January 2001"
+            },
+            "country": {
+              "isoCode": "DZ",
+              "country": "Algeria",
+              "demonym": "Algerian"
+            },
+            "place": "El Oued"
+          },
+          "age": "22 years 223 days",
+          "name": {
+            "display": "Yasser Larouci",
+            "first": "Yasser",
+            "last": "Larouci"
+          },
+          "id": 30528,
+          "altIds": {
+            "opta": "p432990"
+          }
+        },
+        {
+          "matchPosition": "F",
+          "matchShirtNumber": 34,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "F",
+            "shirtNum": 34,
+            "positionInfo": "Centre Second Striker"
+          },
+          "nationalTeam": {
+            "isoCode": "GB-ENG",
+            "country": "England",
+            "demonym": "English"
+          },
+          "birth": {
+            "date": {
+              "millis": 1088726400000,
+              "label": "2 July 2004"
+            },
+            "country": {
+              "isoCode": "GB-ENG",
+              "country": "England",
+              "demonym": "English"
+            }
+          },
+          "age": "19 years 41 days",
+          "name": {
+            "display": "Louie Marsh",
+            "first": "Louie",
+            "last": "Marsh"
+          },
+          "id": 131758,
+          "altIds": {
+            "opta": "p532377"
+          }
+        },
+        {
+          "matchPosition": "G",
+          "matchShirtNumber": 1,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "G",
+            "shirtNum": 17,
+            "positionInfo": "Goalkeeper"
+          },
+          "nationalTeam": {
+            "isoCode": "GB-WLS",
+            "country": "Wales",
+            "demonym": "Welsh"
+          },
+          "birth": {
+            "date": {
+              "millis": 711331200000,
+              "label": "17 July 1992"
+            },
+            "country": {
+              "isoCode": "DE",
+              "country": "Germany",
+              "demonym": "German"
+            }
+          },
+          "age": "31 years 26 days",
+          "name": {
+            "display": "Adam Davies",
+            "first": "Adam",
+            "last": "Davies"
+          },
+          "id": 4293,
+          "altIds": {
+            "opta": "p102549"
+          }
+        },
+        {
+          "matchPosition": "M",
+          "matchShirtNumber": 21,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "M",
+            "shirtNum": 21,
+            "positionInfo": "Centre Central Midfielder"
+          },
+          "nationalTeam": {
+            "isoCode": "BR",
+            "country": "Brazil",
+            "demonym": "Brazilian"
+          },
+          "birth": {
+            "date": {
+              "millis": 929577600000,
+              "label": "17 June 1999"
+            },
+            "country": {
+              "isoCode": "BR",
+              "country": "Brazil",
+              "demonym": "Brazilian"
+            }
+          },
+          "age": "24 years 56 days",
+          "name": {
+            "display": "Vinicius Souza",
+            "first": "Vinicius",
+            "last": "de Souza Costa"
+          },
+          "id": 69865,
+          "altIds": {
+            "opta": "p424001"
+          }
+        },
+        {
+          "matchPosition": "M",
+          "matchShirtNumber": 35,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "M",
+            "shirtNum": 35,
+            "positionInfo": "Left Winger"
+          },
+          "nationalTeam": {
+            "isoCode": "GB-ENG",
+            "country": "England",
+            "demonym": "English"
+          },
+          "birth": {
+            "date": {
+              "millis": 1061337600000,
+              "label": "20 August 2003"
+            },
+            "country": {
+              "isoCode": "GB-ENG",
+              "country": "England",
+              "demonym": "English"
+            }
+          },
+          "age": "19 years 357 days",
+          "name": {
+            "display": "Andre Brooks",
+            "first": "Andre",
+            "last": "Brooks"
+          },
+          "id": 114588,
+          "altIds": {
+            "opta": "p538210"
+          }
+        },
+        {
+          "matchPosition": "D",
+          "matchShirtNumber": 38,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "D",
+            "shirtNum": 38,
+            "positionInfo": "Right Full Back"
+          },
+          "nationalTeam": {
+            "isoCode": "GB-ENG",
+            "country": "England",
+            "demonym": "English"
+          },
+          "birth": {
+            "date": {
+              "millis": 1019952000000,
+              "label": "28 April 2002"
+            },
+            "country": {
+              "isoCode": "GB-ENG",
+              "country": "England",
+              "demonym": "English"
+            },
+            "place": "Manchester"
+          },
+          "age": "21 years 106 days",
+          "name": {
+            "display": "Femi Seriki",
+            "first": "Femi",
+            "last": "Seriki"
+          },
+          "id": 54056,
+          "altIds": {
+            "opta": "p471848"
+          }
+        },
+        {
+          "matchPosition": "D",
+          "matchShirtNumber": 5,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "D",
+            "shirtNum": 5,
+            "positionInfo": "Centre Central Defender"
+          },
+          "nationalTeam": {
+            "isoCode": "US",
+            "country": "United States",
+            "demonym": "American"
+          },
+          "birth": {
+            "date": {
+              "millis": 902880000000,
+              "label": "12 August 1998"
+            },
+            "country": {
+              "isoCode": "US",
+              "country": "United States",
+              "demonym": "American"
+            },
+            "place": "Media"
+          },
+          "age": "25 years",
+          "name": {
+            "display": "Auston Trusty",
+            "first": "Auston",
+            "last": "Trusty"
+          },
+          "id": 54831,
+          "altIds": {
+            "opta": "p201410"
+          }
+        }
+      ],
+      "formation": {
+        "label": "3-4-3",
+        "players": [
+          [
+            3881
+          ],
+          [
+            20855,
+            4394,
+            3902
+          ],
+          [
+            9169,
+            3581,
+            3924,
+            8578
+          ],
+          [
+            136982,
+            114590,
+            9266
+          ]
+        ]
+      }
+    },
+    {
+      "teamId": 6,
+      "lineup": [
+        {
+          "matchPosition": "D",
+          "matchShirtNumber": 16,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "D",
+            "shirtNum": 5,
+            "positionInfo": "Centre Central Defender"
+          },
+          "nationalTeam": {
+            "isoCode": "DK",
+            "country": "Denmark"
+          },
+          "birth": {
+            "date": {
+              "millis": 833500800000,
+              "label": "31 May 1996"
+            },
+            "country": {
+              "isoCode": "DK",
+              "country": "Denmark"
+            },
+            "place": "Frederiksberg"
+          },
+          "age": "27 years 73 days",
+          "name": {
+            "display": "Joachim Andersen",
+            "first": "Joachim",
+            "last": "Andersen"
+          },
+          "id": 26151,
+          "altIds": {
+            "opta": "p174874"
+          }
+        },
+        {
+          "matchPosition": "M",
+          "matchShirtNumber": 8,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "M",
+            "shirtNum": 8,
+            "positionInfo": "Centre Central Midfielder"
+          },
+          "nationalTeam": {
+            "isoCode": "CO",
+            "country": "Colombia",
+            "demonym": "Colombian"
+          },
+          "birth": {
+            "date": {
+              "millis": 783043200000,
+              "label": "25 October 1994"
+            },
+            "country": {
+              "isoCode": "CO",
+              "country": "Colombia",
+              "demonym": "Colombian"
+            },
+            "place": "Cerrito"
+          },
+          "age": "28 years 291 days",
+          "name": {
+            "display": "Jefferson Lerma",
+            "first": "Jefferson",
+            "last": "Lerma"
+          },
+          "id": 37776,
+          "altIds": {
+            "opta": "p152551"
+          }
+        },
+        {
+          "matchPosition": "D",
+          "matchShirtNumber": 2,
+          "captain": true,
+          "playerId": 0,
+          "info": {
+            "position": "D",
+            "shirtNum": 2,
+            "positionInfo": "Right Full Back"
+          },
+          "nationalTeam": {
+            "isoCode": "GB-ENG",
+            "country": "England",
+            "demonym": "English"
+          },
+          "birth": {
+            "date": {
+              "millis": 625622400000,
+              "label": "29 October 1989"
+            },
+            "country": {
+              "isoCode": "GB-ENG",
+              "country": "England",
+              "demonym": "English"
+            }
+          },
+          "age": "33 years 287 days",
+          "name": {
+            "display": "Joel Ward",
+            "first": "Joel",
+            "last": "Ward"
+          },
+          "id": 3929,
+          "altIds": {
+            "opta": "p55494"
+          }
+        },
+        {
+          "matchPosition": "M",
+          "matchShirtNumber": 28,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "M",
+            "shirtNum": 28,
+            "positionInfo": "Centre Defensive Midfielder"
+          },
+          "nationalTeam": {
+            "isoCode": "ML",
+            "country": "Mali",
+            "demonym": "Malian"
+          },
+          "birth": {
+            "date": {
+              "millis": 947289600000,
+              "label": "8 January 2000"
+            },
+            "country": {
+              "isoCode": "ML",
+              "country": "Mali",
+              "demonym": "Malian"
+            },
+            "place": "Bamako"
+          },
+          "age": "23 years 216 days",
+          "name": {
+            "display": "Cheick Doucouré",
+            "first": "Cheick",
+            "last": "Doucouré"
+          },
+          "id": 126670,
+          "altIds": {
+            "opta": "p438464"
+          }
+        },
+        {
+          "matchPosition": "M",
+          "matchShirtNumber": 9,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "F",
+            "shirtNum": 9,
+            "positionInfo": "Centre Striker"
+          },
+          "nationalTeam": {
+            "isoCode": "GH",
+            "country": "Ghana",
+            "demonym": "Ghanan"
+          },
+          "birth": {
+            "date": {
+              "millis": 684547200000,
+              "label": "11 September 1991"
+            },
+            "country": {
+              "isoCode": "FR",
+              "country": "France",
+              "demonym": "French"
+            },
+            "place": "Marseille"
+          },
+          "age": "31 years 335 days",
+          "name": {
+            "display": "Jordan Ayew",
+            "first": "Jordan",
+            "last": "Ayew"
+          },
+          "id": 5595,
+          "altIds": {
+            "opta": "p80146"
+          }
+        },
+        {
+          "matchPosition": "G",
+          "matchShirtNumber": 1,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "G",
+            "shirtNum": 32,
+            "positionInfo": "Goalkeeper"
+          },
+          "nationalTeam": {
+            "isoCode": "GB-ENG",
+            "country": "England",
+            "demonym": "English"
+          },
+          "birth": {
+            "date": {
+              "millis": 733017600000,
+              "label": "25 March 1993"
+            },
+            "country": {
+              "isoCode": "GB-ENG",
+              "country": "England",
+              "demonym": "English"
+            }
+          },
+          "age": "30 years 140 days",
+          "name": {
+            "display": "Sam Johnstone",
+            "first": "Sam",
+            "middle": "Luke",
+            "last": "Johnstone"
+          },
+          "id": 4331,
+          "altIds": {
+            "opta": "p101982"
+          }
+        },
+        {
+          "matchPosition": "D",
+          "matchShirtNumber": 6,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "D",
+            "shirtNum": 6,
+            "positionInfo": "Centre Central Defender"
+          },
+          "nationalTeam": {
+            "isoCode": "GB-ENG",
+            "country": "England",
+            "demonym": "English"
+          },
+          "birth": {
+            "date": {
+              "millis": 963446400000,
+              "label": "13 July 2000"
+            },
+            "country": {
+              "isoCode": "CI",
+              "country": "Cote D’Ivoire",
+              "demonym": "Ivorian"
+            },
+            "place": "Abidjan"
+          },
+          "age": "23 years 30 days",
+          "name": {
+            "display": "Marc Guéhi",
+            "first": "Marc",
+            "last": "Guéhi"
+          },
+          "id": 14569,
+          "altIds": {
+            "opta": "p209036"
+          }
+        },
+        {
+          "matchPosition": "D",
+          "matchShirtNumber": 3,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "D",
+            "shirtNum": 3,
+            "positionInfo": "Left Full Back"
+          },
+          "nationalTeam": {
+            "isoCode": "GB-ENG",
+            "country": "England",
+            "demonym": "English"
+          },
+          "birth": {
+            "date": {
+              "millis": 936144000000,
+              "label": "1 September 1999"
+            },
+            "country": {
+              "isoCode": "GB-ENG",
+              "country": "England",
+              "demonym": "English"
+            }
+          },
+          "age": "23 years 345 days",
+          "name": {
+            "display": "Tyrick Mitchell",
+            "first": "Tyrick",
+            "last": "Mitchell"
+          },
+          "id": 24334,
+          "altIds": {
+            "opta": "p244723"
+          }
+        },
+        {
+          "matchPosition": "M",
+          "matchShirtNumber": 15,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "M",
+            "shirtNum": 15,
+            "positionInfo": "Left Winger"
+          },
+          "nationalTeam": {
+            "isoCode": "GH",
+            "country": "Ghana",
+            "demonym": "Ghanan"
+          },
+          "birth": {
+            "date": {
+              "millis": 725068800000,
+              "label": "23 December 1992"
+            },
+            "country": {
+              "isoCode": "DE",
+              "country": "Germany",
+              "demonym": "German"
+            },
+            "place": "Hamburg"
+          },
+          "age": "30 years 232 days",
+          "name": {
+            "display": "Jeffrey Schlupp",
+            "first": "Jeffrey",
+            "last": "Schlupp"
+          },
+          "id": 8980,
+          "altIds": {
+            "opta": "p86417"
+          }
+        },
+        {
+          "matchPosition": "M",
+          "matchShirtNumber": 10,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "M",
+            "shirtNum": 10,
+            "positionInfo": "Centre Attacking Midfielder"
+          },
+          "nationalTeam": {
+            "isoCode": "GB-ENG",
+            "country": "England",
+            "demonym": "English"
+          },
+          "birth": {
+            "date": {
+              "millis": 899078400000,
+              "label": "29 June 1998"
+            },
+            "country": {
+              "isoCode": "GB-ENG",
+              "country": "England",
+              "demonym": "English"
+            },
+            "place": "London"
+          },
+          "age": "25 years 44 days",
+          "name": {
+            "display": "Eberechi Eze",
+            "first": "Eberechi",
+            "last": "Eze"
+          },
+          "id": 21584,
+          "altIds": {
+            "opta": "p232413"
+          }
+        },
+        {
+          "matchPosition": "F",
+          "matchShirtNumber": 22,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "F",
+            "shirtNum": 22,
+            "positionInfo": "Centre Striker"
+          },
+          "nationalTeam": {
+            "isoCode": "FR",
+            "country": "France",
+            "demonym": "French"
+          },
+          "birth": {
+            "date": {
+              "millis": 884908800000,
+              "label": "16 January 1998"
+            },
+            "country": {
+              "isoCode": "GF",
+              "country": "French Guiana"
+            }
+          },
+          "age": "25 years 208 days",
+          "name": {
+            "display": "Odsonne Édouard",
+            "first": "Odsonne",
+            "last": "Édouard"
+          },
+          "id": 16788,
+          "altIds": {
+            "opta": "p199670"
+          }
+        }
+      ],
+      "substitutes": [
+        {
+          "matchPosition": "D",
+          "matchShirtNumber": 17,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "D",
+            "shirtNum": 17,
+            "positionInfo": "Right Full Back"
+          },
+          "nationalTeam": {
+            "isoCode": "GB-ENG",
+            "country": "England",
+            "demonym": "English"
+          },
+          "birth": {
+            "date": {
+              "millis": 670809600000,
+              "label": "5 April 1991"
+            },
+            "country": {
+              "isoCode": "GB-ENG",
+              "country": "England",
+              "demonym": "English"
+            }
+          },
+          "age": "32 years 129 days",
+          "name": {
+            "display": "Nathaniel Clyne",
+            "first": "Nathaniel",
+            "last": "Clyne"
+          },
+          "id": 4604,
+          "altIds": {
+            "opta": "p57328"
+          }
+        },
+        {
+          "matchPosition": "F",
+          "matchShirtNumber": 14,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "F",
+            "shirtNum": 14,
+            "positionInfo": "Centre Striker"
+          },
+          "nationalTeam": {
+            "isoCode": "FR",
+            "country": "France",
+            "demonym": "French"
+          },
+          "birth": {
+            "date": {
+              "millis": 867456000000,
+              "label": "28 June 1997"
+            },
+            "country": {
+              "isoCode": "FR",
+              "country": "France",
+              "demonym": "French"
+            },
+            "place": "Sevran"
+          },
+          "age": "26 years 45 days",
+          "name": {
+            "display": "Jean-Philippe Mateta",
+            "first": "Jean-Philippe",
+            "last": "Mateta"
+          },
+          "id": 20874,
+          "altIds": {
+            "opta": "p231747"
+          }
+        },
+        {
+          "matchPosition": "F",
+          "matchShirtNumber": 37,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "F",
+            "shirtNum": 37,
+            "positionInfo": "Centre Striker"
+          },
+          "nationalTeam": {
+            "isoCode": "GB-ENG",
+            "country": "England",
+            "demonym": "English"
+          },
+          "birth": {
+            "date": {
+              "millis": 1045094400000,
+              "label": "13 February 2003"
+            },
+            "country": {
+              "isoCode": "GB-ENG",
+              "country": "England",
+              "demonym": "English"
+            }
+          },
+          "age": "20 years 180 days",
+          "name": {
+            "display": "John-Kymani Gordon",
+            "first": "John-Kymani",
+            "middle": "Linton Michael",
+            "last": "Gordon"
+          },
+          "id": 64037,
+          "altIds": {
+            "opta": "p461382"
+          }
+        },
+        {
+          "matchPosition": "M",
+          "matchShirtNumber": 44,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "M",
+            "shirtNum": 44,
+            "positionInfo": "Centre Central Midfielder"
+          },
+          "nationalTeam": {
+            "isoCode": "NL",
+            "country": "Netherlands",
+            "demonym": "Dutch"
+          },
+          "birth": {
+            "date": {
+              "millis": 842227200000,
+              "label": "9 September 1996"
+            },
+            "country": {
+              "isoCode": "NL",
+              "country": "Netherlands",
+              "demonym": "Dutch"
+            },
+            "place": "Amsterdam"
+          },
+          "age": "26 years 337 days",
+          "name": {
+            "display": "Jairo Riedewald",
+            "first": "Jairo",
+            "last": "Riedewald"
+          },
+          "id": 4878,
+          "altIds": {
+            "opta": "p173954"
+          }
+        },
+        {
+          "matchPosition": "D",
+          "matchShirtNumber": 26,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "D",
+            "shirtNum": 26,
+            "positionInfo": "Centre Central Defender"
+          },
+          "nationalTeam": {
+            "isoCode": "US",
+            "country": "United States",
+            "demonym": "American"
+          },
+          "birth": {
+            "date": {
+              "millis": 954201600000,
+              "label": "28 March 2000"
+            },
+            "country": {
+              "isoCode": "US",
+              "country": "United States",
+              "demonym": "American"
+            },
+            "place": "Birmingham, AL"
+          },
+          "age": "23 years 137 days",
+          "name": {
+            "display": "Chris Richards",
+            "first": "Chris",
+            "last": "Richards"
+          },
+          "id": 50842,
+          "altIds": {
+            "opta": "p427623"
+          }
+        },
+        {
+          "matchPosition": "D",
+          "matchShirtNumber": 5,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "D",
+            "shirtNum": 5,
+            "positionInfo": "Centre Central Defender"
+          },
+          "nationalTeam": {
+            "isoCode": "GB-ENG",
+            "country": "England",
+            "demonym": "English"
+          },
+          "birth": {
+            "date": {
+              "millis": 607132800000,
+              "label": "29 March 1989"
+            },
+            "country": {
+              "isoCode": "GB-ENG",
+              "country": "England",
+              "demonym": "English"
+            }
+          },
+          "age": "34 years 136 days",
+          "name": {
+            "display": "James Tomkins",
+            "first": "James",
+            "middle": "Oliver Charles",
+            "last": "Tomkins"
+          },
+          "id": 3517,
+          "altIds": {
+            "opta": "p49413"
+          }
+        },
+        {
+          "matchPosition": "M",
+          "matchShirtNumber": 49,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "M",
+            "shirtNum": 49,
+            "positionInfo": "Left/Right Winger"
+          },
+          "nationalTeam": {
+            "isoCode": "GB-ENG",
+            "country": "England",
+            "demonym": "English"
+          },
+          "birth": {
+            "date": {
+              "millis": 1033776000000,
+              "label": "5 October 2002"
+            },
+            "country": {
+              "isoCode": "GB-ENG",
+              "country": "England",
+              "demonym": "English"
+            }
+          },
+          "age": "20 years 311 days",
+          "name": {
+            "display": "Jesurun Rak-Sakyi",
+            "first": "Jesurun",
+            "last": "Rak-Sakyi"
+          },
+          "id": 49504,
+          "altIds": {
+            "opta": "p450542"
+          }
+        },
+        {
+          "matchPosition": "G",
+          "matchShirtNumber": 31,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "G",
+            "shirtNum": 31,
+            "positionInfo": "Goalkeeper"
+          },
+          "nationalTeam": {
+            "isoCode": "GB-ENG",
+            "country": "England",
+            "demonym": "English"
+          },
+          "birth": {
+            "date": {
+              "millis": 760838400000,
+              "label": "10 February 1994"
+            },
+            "country": {
+              "isoCode": "GB-ENG",
+              "country": "England",
+              "demonym": "English"
+            }
+          },
+          "age": "29 years 183 days",
+          "name": {
+            "display": "Remi Matthews",
+            "first": "Remi",
+            "last": "Matthews"
+          },
+          "id": 10827,
+          "altIds": {
+            "opta": "p169593"
+          }
+        },
+        {
+          "matchPosition": "M",
+          "matchShirtNumber": 29,
+          "captain": false,
+          "playerId": 0,
+          "info": {
+            "position": "M",
+            "shirtNum": 29,
+            "positionInfo": "Centre Central Midfielder"
+          },
+          "nationalTeam": {
+            "isoCode": "FR",
+            "country": "France",
+            "demonym": "French"
+          },
+          "birth": {
+            "date": {
+              "millis": 1017360000000,
+              "label": "29 March 2002"
+            },
+            "country": {
+              "isoCode": "FR",
+              "country": "France",
+              "demonym": "French"
+            },
+            "place": "Marseille"
+          },
+          "age": "21 years 136 days",
+          "name": {
+            "display": "Naouirou Ahamada",
+            "first": "Naouirou",
+            "last": "Ahamada"
+          },
+          "id": 68086,
+          "altIds": {
+            "opta": "p466117"
+          }
+        }
+      ],
+      "formation": {
+        "label": "4-2-3-1",
+        "players": [
+          [
+            4331
+          ],
+          [
+            3929,
+            26151,
+            14569,
+            24334
+          ],
+          [
+            37776,
+            126670
+          ],
+          [
+            5595,
+            21584,
+            8980
+          ],
+          [
+            16788
+          ]
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "18": {
+      "M": [
+        {
+          "name": "formation_used",
+          "value": 343.0,
+          "description": "Todo: formation_used",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_offside",
+          "value": 2.0,
+          "description": "Todo: total_offside",
+          "additionalInfo": {}
+        },
+        {
+          "name": "open_play_pass",
+          "value": 233.0,
+          "description": "Todo: open_play_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "long_pass_own_to_opp",
+          "value": 70.0,
+          "description": "Todo: long_pass_own_to_opp",
+          "additionalInfo": {}
+        },
+        {
+          "name": "accurate_fwd_zone_pass",
+          "value": 96.0,
+          "description": "Todo: accurate_fwd_zone_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "possession_percentage",
+          "value": 32.2,
+          "description": "Todo: possession_percentage",
+          "additionalInfo": {}
+        },
+        {
+          "name": "accurate_back_zone_pass",
+          "value": 69.0,
+          "description": "Todo: accurate_back_zone_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_fwd_zone_pass",
+          "value": 189.0,
+          "description": "Todo: total_fwd_zone_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "backward_pass",
+          "value": 30.0,
+          "description": "Todo: backward_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_chipped_pass",
+          "value": 34.0,
+          "description": "Todo: total_chipped_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_final_third_passes",
+          "value": 94.0,
+          "description": "Todo: total_final_third_passes",
+          "additionalInfo": {}
+        },
+        {
+          "name": "passes_right",
+          "value": 60.0,
+          "description": "Todo: passes_right",
+          "additionalInfo": {}
+        },
+        {
+          "name": "fwd_pass",
+          "value": 132.0,
+          "description": "Todo: fwd_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "successful_final_third_passes",
+          "value": 49.0,
+          "description": "Todo: successful_final_third_passes",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_pass",
+          "value": 262.0,
+          "description": "Todo: total_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "poss_lost_ctrl",
+          "value": 152.0,
+          "description": "Todo: poss_lost_ctrl",
+          "additionalInfo": {}
+        },
+        {
+          "name": "poss_lost_all",
+          "value": 152.0,
+          "description": "Todo: poss_lost_all",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_long_balls",
+          "value": 68.0,
+          "description": "Todo: total_long_balls",
+          "additionalInfo": {}
+        },
+        {
+          "name": "rightside_pass",
+          "value": 53.0,
+          "description": "Todo: rightside_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "successful_open_play_pass",
+          "value": 153.0,
+          "description": "Todo: successful_open_play_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "final_third_entries",
+          "value": 53.0,
+          "description": "Todo: final_third_entries",
+          "additionalInfo": {}
+        },
+        {
+          "name": "touches",
+          "value": 472.0,
+          "description": "Todo: touches",
+          "additionalInfo": {}
+        },
+        {
+          "name": "accurate_pass",
+          "value": 162.0,
+          "description": "Todo: accurate_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_back_zone_pass",
+          "value": 87.0,
+          "description": "Todo: total_back_zone_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "aerial_won",
+          "value": 13.0,
+          "description": "Todo: aerial_won",
+          "additionalInfo": {}
+        },
+        {
+          "name": "aerial_lost",
+          "value": 31.0,
+          "description": "Todo: aerial_lost",
+          "additionalInfo": {}
+        },
+        {
+          "name": "duel_won",
+          "value": 48.0,
+          "description": "Todo: duel_won",
+          "additionalInfo": {}
+        },
+        {
+          "name": "duel_lost",
+          "value": 83.0,
+          "description": "Todo: duel_lost",
+          "additionalInfo": {}
+        },
+        {
+          "name": "poss_won_def_3rd",
+          "value": 28.0,
+          "description": "Todo: poss_won_def_3rd",
+          "additionalInfo": {}
+        },
+        {
+          "name": "passes_left",
+          "value": 33.0,
+          "description": "Todo: passes_left",
+          "additionalInfo": {}
+        },
+        {
+          "name": "accurate_chipped_pass",
+          "value": 11.0,
+          "description": "Todo: accurate_chipped_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "fk_foul_lost",
+          "value": 18.0,
+          "description": "Todo: fk_foul_lost",
+          "additionalInfo": {}
+        },
+        {
+          "name": "accurate_launches",
+          "value": 5.0,
+          "description": "Todo: accurate_launches",
+          "additionalInfo": {}
+        },
+        {
+          "name": "ball_recovery",
+          "value": 58.0,
+          "description": "Todo: ball_recovery",
+          "additionalInfo": {}
+        },
+        {
+          "name": "accurate_long_balls",
+          "value": 16.0,
+          "description": "Todo: accurate_long_balls",
+          "additionalInfo": {}
+        },
+        {
+          "name": "accurate_cross",
+          "value": 3.0,
+          "description": "Todo: accurate_cross",
+          "additionalInfo": {}
+        },
+        {
+          "name": "long_pass_own_to_opp_success",
+          "value": 19.0,
+          "description": "Todo: long_pass_own_to_opp_success",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_throws",
+          "value": 18.0,
+          "description": "Todo: total_throws",
+          "additionalInfo": {}
+        },
+        {
+          "name": "crosses_18yard",
+          "value": 4.0,
+          "description": "Todo: crosses_18yard",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_cross",
+          "value": 14.0,
+          "description": "Todo: total_cross",
+          "additionalInfo": {}
+        },
+        {
+          "name": "leftside_pass",
+          "value": 47.0,
+          "description": "Todo: leftside_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_cross_nocorner",
+          "value": 10.0,
+          "description": "Todo: total_cross_nocorner",
+          "additionalInfo": {}
+        },
+        {
+          "name": "accurate_cross_nocorner",
+          "value": 1.0,
+          "description": "Todo: accurate_cross_nocorner",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_launches",
+          "value": 23.0,
+          "description": "Todo: total_launches",
+          "additionalInfo": {}
+        },
+        {
+          "name": "pen_area_entries",
+          "value": 26.0,
+          "description": "Todo: pen_area_entries",
+          "additionalInfo": {}
+        },
+        {
+          "name": "accurate_throws",
+          "value": 15.0,
+          "description": "Todo: accurate_throws",
+          "additionalInfo": {}
+        },
+        {
+          "name": "unsuccessful_touch",
+          "value": 11.0,
+          "description": "Todo: unsuccessful_touch",
+          "additionalInfo": {}
+        },
+        {
+          "name": "fk_foul_won",
+          "value": 11.0,
+          "description": "Todo: fk_foul_won",
+          "additionalInfo": {}
+        },
+        {
+          "name": "won_tackle",
+          "value": 11.0,
+          "description": "Todo: won_tackle",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_tackle",
+          "value": 22.0,
+          "description": "Todo: total_tackle",
+          "additionalInfo": {}
+        },
+        {
+          "name": "put_through",
+          "value": 25.0,
+          "description": "Todo: put_through",
+          "additionalInfo": {}
+        },
+        {
+          "name": "poss_won_att_3rd",
+          "value": 4.0,
+          "description": "Todo: poss_won_att_3rd",
+          "additionalInfo": {}
+        },
+        {
+          "name": "touches_in_opp_box",
+          "value": 14.0,
+          "description": "Todo: touches_in_opp_box",
+          "additionalInfo": {}
+        },
+        {
+          "name": "interception",
+          "value": 11.0,
+          "description": "Todo: interception",
+          "additionalInfo": {}
+        },
+        {
+          "name": "interception_won",
+          "value": 11.0,
+          "description": "Todo: interception_won",
+          "additionalInfo": {}
+        },
+        {
+          "name": "won_corners",
+          "value": 5.0,
+          "description": "Todo: won_corners",
+          "additionalInfo": {}
+        },
+        {
+          "name": "corner_taken",
+          "value": 5.0,
+          "description": "Todo: corner_taken",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_corners_intobox",
+          "value": 4.0,
+          "description": "Todo: total_corners_intobox",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_obox_blocked",
+          "value": 2.0,
+          "description": "Todo: att_obox_blocked",
+          "additionalInfo": {}
+        },
+        {
+          "name": "effective_clearance",
+          "value": 34.0,
+          "description": "Todo: effective_clearance",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_openplay",
+          "value": 6.0,
+          "description": "Todo: att_openplay",
+          "additionalInfo": {}
+        },
+        {
+          "name": "blocked_scoring_att",
+          "value": 3.0,
+          "description": "Todo: blocked_scoring_att",
+          "additionalInfo": {}
+        },
+        {
+          "name": "attempts_obox",
+          "value": 4.0,
+          "description": "Todo: attempts_obox",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_scoring_att",
+          "value": 8.0,
+          "description": "Todo: total_scoring_att",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_obx_centre",
+          "value": 4.0,
+          "description": "Todo: att_obx_centre",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_lf_total",
+          "value": 1.0,
+          "description": "Todo: att_lf_total",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_clearance",
+          "value": 34.0,
+          "description": "Todo: total_clearance",
+          "additionalInfo": {}
+        },
+        {
+          "name": "attempted_tackle_foul",
+          "value": 9.0,
+          "description": "Todo: attempted_tackle_foul",
+          "additionalInfo": {}
+        },
+        {
+          "name": "dispossessed",
+          "value": 12.0,
+          "description": "Todo: dispossessed",
+          "additionalInfo": {}
+        },
+        {
+          "name": "blocked_pass",
+          "value": 15.0,
+          "description": "Todo: blocked_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "poss_won_mid_3rd",
+          "value": 19.0,
+          "description": "Todo: poss_won_mid_3rd",
+          "additionalInfo": {}
+        },
+        {
+          "name": "outfielder_block",
+          "value": 8.0,
+          "description": "Todo: outfielder_block",
+          "additionalInfo": {}
+        },
+        {
+          "name": "successful_put_through",
+          "value": 15.0,
+          "description": "Todo: successful_put_through",
+          "additionalInfo": {}
+        },
+        {
+          "name": "goal_kicks",
+          "value": 10.0,
+          "description": "Todo: goal_kicks",
+          "additionalInfo": {}
+        },
+        {
+          "name": "lost_corners",
+          "value": 5.0,
+          "description": "Todo: lost_corners",
+          "additionalInfo": {}
+        },
+        {
+          "name": "attempts_conceded_ibox",
+          "value": 17.0,
+          "description": "Todo: attempts_conceded_ibox",
+          "additionalInfo": {}
+        },
+        {
+          "name": "challenge_lost",
+          "value": 13.0,
+          "description": "Todo: challenge_lost",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_contest",
+          "value": 11.0,
+          "description": "Todo: total_contest",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_yel_card",
+          "value": 3.0,
+          "description": "Todo: total_yel_card",
+          "additionalInfo": {}
+        },
+        {
+          "name": "attempts_conceded_obox",
+          "value": 7.0,
+          "description": "Todo: attempts_conceded_obox",
+          "additionalInfo": {}
+        },
+        {
+          "name": "saves",
+          "value": 7.0,
+          "description": "Todo: saves",
+          "additionalInfo": {}
+        },
+        {
+          "name": "saved_ibox",
+          "value": 5.0,
+          "description": "Todo: saved_ibox",
+          "additionalInfo": {}
+        },
+        {
+          "name": "diving_save",
+          "value": 5.0,
+          "description": "Todo: diving_save",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_flick_on",
+          "value": 3.0,
+          "description": "Todo: total_flick_on",
+          "additionalInfo": {}
+        },
+        {
+          "name": "saved_obox",
+          "value": 2.0,
+          "description": "Todo: saved_obox",
+          "additionalInfo": {}
+        },
+        {
+          "name": "effective_blocked_cross",
+          "value": 2.0,
+          "description": "Todo: effective_blocked_cross",
+          "additionalInfo": {}
+        },
+        {
+          "name": "blocked_cross",
+          "value": 2.0,
+          "description": "Todo: blocked_cross",
+          "additionalInfo": {}
+        },
+        {
+          "name": "won_contest",
+          "value": 2.0,
+          "description": "Todo: won_contest",
+          "additionalInfo": {}
+        },
+        {
+          "name": "attempts_ibox",
+          "value": 4.0,
+          "description": "Todo: attempts_ibox",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_hd_total",
+          "value": 2.0,
+          "description": "Todo: att_hd_total",
+          "additionalInfo": {}
+        },
+        {
+          "name": "shot_off_target",
+          "value": 4.0,
+          "description": "Todo: shot_off_target",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_corner",
+          "value": 2.0,
+          "description": "Todo: att_corner",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_bx_centre",
+          "value": 3.0,
+          "description": "Todo: att_bx_centre",
+          "additionalInfo": {}
+        },
+        {
+          "name": "accurate_corners_intobox",
+          "value": 2.0,
+          "description": "Todo: accurate_corners_intobox",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_ibox_miss",
+          "value": 3.0,
+          "description": "Todo: att_ibox_miss",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_hd_miss",
+          "value": 2.0,
+          "description": "Todo: att_hd_miss",
+          "additionalInfo": {}
+        },
+        {
+          "name": "offtarget_att_assist",
+          "value": 3.0,
+          "description": "Todo: offtarget_att_assist",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_assist_setplay",
+          "value": 2.0,
+          "description": "Todo: att_assist_setplay",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_att_assist",
+          "value": 5.0,
+          "description": "Todo: total_att_assist",
+          "additionalInfo": {}
+        },
+        {
+          "name": "effective_head_clearance",
+          "value": 9.0,
+          "description": "Todo: effective_head_clearance",
+          "additionalInfo": {}
+        },
+        {
+          "name": "head_clearance",
+          "value": 9.0,
+          "description": "Todo: head_clearance",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_pull_back",
+          "value": 2.0,
+          "description": "Todo: total_pull_back",
+          "additionalInfo": {}
+        },
+        {
+          "name": "overrun",
+          "value": 4.0,
+          "description": "Todo: overrun",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_miss_high",
+          "value": 2.0,
+          "description": "Todo: att_miss_high",
+          "additionalInfo": {}
+        },
+        {
+          "name": "interceptions_in_box",
+          "value": 2.0,
+          "description": "Todo: interceptions_in_box",
+          "additionalInfo": {}
+        },
+        {
+          "name": "ontarget_scoring_att",
+          "value": 1.0,
+          "description": "Todo: ontarget_scoring_att",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_rf_target",
+          "value": 1.0,
+          "description": "Todo: att_rf_target",
+          "additionalInfo": {}
+        },
+        {
+          "name": "ontarget_att_assist",
+          "value": 2.0,
+          "description": "Todo: ontarget_att_assist",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_sv_low_centre",
+          "value": 1.0,
+          "description": "Todo: att_sv_low_centre",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_assist_openplay",
+          "value": 3.0,
+          "description": "Todo: att_assist_openplay",
+          "additionalInfo": {}
+        },
+        {
+          "name": "crosses_18yardplus",
+          "value": 4.0,
+          "description": "Todo: crosses_18yardplus",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_rf_total",
+          "value": 5.0,
+          "description": "Todo: att_rf_total",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_obox_target",
+          "value": 1.0,
+          "description": "Todo: att_obox_target",
+          "additionalInfo": {}
+        },
+        {
+          "name": "fouled_final_third",
+          "value": 2.0,
+          "description": "Todo: fouled_final_third",
+          "additionalInfo": {}
+        },
+        {
+          "name": "freekick_cross",
+          "value": 2.0,
+          "description": "Todo: freekick_cross",
+          "additionalInfo": {}
+        },
+        {
+          "name": "goals_conceded_ibox",
+          "value": 1.0,
+          "description": "Todo: goals_conceded_ibox",
+          "additionalInfo": {}
+        },
+        {
+          "name": "goals_conceded",
+          "value": 1.0,
+          "description": "Todo: goals_conceded",
+          "additionalInfo": {}
+        },
+        {
+          "name": "keeper_throws",
+          "value": 1.0,
+          "description": "Todo: keeper_throws",
+          "additionalInfo": {}
+        },
+        {
+          "name": "accurate_keeper_throws",
+          "value": 1.0,
+          "description": "Todo: accurate_keeper_throws",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_ibox_blocked",
+          "value": 1.0,
+          "description": "Todo: att_ibox_blocked",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_fastbreak",
+          "value": 2.0,
+          "description": "Todo: total_fastbreak",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_bx_right",
+          "value": 1.0,
+          "description": "Todo: att_bx_right",
+          "additionalInfo": {}
+        },
+        {
+          "name": "shot_fastbreak",
+          "value": 2.0,
+          "description": "Todo: shot_fastbreak",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_fastbreak",
+          "value": 2.0,
+          "description": "Todo: att_fastbreak",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_miss_right",
+          "value": 1.0,
+          "description": "Todo: att_miss_right",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_through_ball",
+          "value": 1.0,
+          "description": "Todo: total_through_ball",
+          "additionalInfo": {}
+        },
+        {
+          "name": "subs_made",
+          "value": 5.0,
+          "description": "Todo: subs_made",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_obox_miss",
+          "value": 1.0,
+          "description": "Todo: att_obox_miss",
+          "additionalInfo": {}
+        },
+        {
+          "name": "losses",
+          "value": 1.0,
+          "description": "Todo: losses",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_miss_high_left",
+          "value": 1.0,
+          "description": "Todo: att_miss_high_left",
+          "additionalInfo": {}
+        }
+      ]
+    },
+    "6": {
+      "M": [
+        {
+          "name": "formation_used",
+          "value": 4231.0,
+          "description": "Todo: formation_used",
+          "additionalInfo": {}
+        },
+        {
+          "name": "open_play_pass",
+          "value": 539.0,
+          "description": "Todo: open_play_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "fwd_pass",
+          "value": 186.0,
+          "description": "Todo: fwd_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "touches",
+          "value": 801.0,
+          "description": "Todo: touches",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_pass",
+          "value": 562.0,
+          "description": "Todo: total_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "poss_lost_all",
+          "value": 166.0,
+          "description": "Todo: poss_lost_all",
+          "additionalInfo": {}
+        },
+        {
+          "name": "poss_lost_ctrl",
+          "value": 166.0,
+          "description": "Todo: poss_lost_ctrl",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_back_zone_pass",
+          "value": 287.0,
+          "description": "Todo: total_back_zone_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "possession_percentage",
+          "value": 67.8,
+          "description": "Todo: possession_percentage",
+          "additionalInfo": {}
+        },
+        {
+          "name": "duel_won",
+          "value": 83.0,
+          "description": "Todo: duel_won",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_final_third_passes",
+          "value": 129.0,
+          "description": "Todo: total_final_third_passes",
+          "additionalInfo": {}
+        },
+        {
+          "name": "backward_pass",
+          "value": 94.0,
+          "description": "Todo: backward_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "passes_left",
+          "value": 59.0,
+          "description": "Todo: passes_left",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_chipped_pass",
+          "value": 46.0,
+          "description": "Todo: total_chipped_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "final_third_entries",
+          "value": 58.0,
+          "description": "Todo: final_third_entries",
+          "additionalInfo": {}
+        },
+        {
+          "name": "duel_lost",
+          "value": 48.0,
+          "description": "Todo: duel_lost",
+          "additionalInfo": {}
+        },
+        {
+          "name": "aerial_lost",
+          "value": 13.0,
+          "description": "Todo: aerial_lost",
+          "additionalInfo": {}
+        },
+        {
+          "name": "aerial_won",
+          "value": 31.0,
+          "description": "Todo: aerial_won",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_fwd_zone_pass",
+          "value": 292.0,
+          "description": "Todo: total_fwd_zone_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "interception_won",
+          "value": 4.0,
+          "description": "Todo: interception_won",
+          "additionalInfo": {}
+        },
+        {
+          "name": "effective_clearance",
+          "value": 14.0,
+          "description": "Todo: effective_clearance",
+          "additionalInfo": {}
+        },
+        {
+          "name": "poss_won_def_3rd",
+          "value": 26.0,
+          "description": "Todo: poss_won_def_3rd",
+          "additionalInfo": {}
+        },
+        {
+          "name": "poss_won_mid_3rd",
+          "value": 25.0,
+          "description": "Todo: poss_won_mid_3rd",
+          "additionalInfo": {}
+        },
+        {
+          "name": "fk_foul_won",
+          "value": 18.0,
+          "description": "Todo: fk_foul_won",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_long_balls",
+          "value": 54.0,
+          "description": "Todo: total_long_balls",
+          "additionalInfo": {}
+        },
+        {
+          "name": "long_pass_own_to_opp",
+          "value": 85.0,
+          "description": "Todo: long_pass_own_to_opp",
+          "additionalInfo": {}
+        },
+        {
+          "name": "accurate_throws",
+          "value": 26.0,
+          "description": "Todo: accurate_throws",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_launches",
+          "value": 12.0,
+          "description": "Todo: total_launches",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_throws",
+          "value": 31.0,
+          "description": "Todo: total_throws",
+          "additionalInfo": {}
+        },
+        {
+          "name": "unsuccessful_touch",
+          "value": 27.0,
+          "description": "Todo: unsuccessful_touch",
+          "additionalInfo": {}
+        },
+        {
+          "name": "ball_recovery",
+          "value": 62.0,
+          "description": "Todo: ball_recovery",
+          "additionalInfo": {}
+        },
+        {
+          "name": "interception",
+          "value": 4.0,
+          "description": "Todo: interception",
+          "additionalInfo": {}
+        },
+        {
+          "name": "head_clearance",
+          "value": 10.0,
+          "description": "Todo: head_clearance",
+          "additionalInfo": {}
+        },
+        {
+          "name": "effective_head_clearance",
+          "value": 10.0,
+          "description": "Todo: effective_head_clearance",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_clearance",
+          "value": 14.0,
+          "description": "Todo: total_clearance",
+          "additionalInfo": {}
+        },
+        {
+          "name": "successful_open_play_pass",
+          "value": 446.0,
+          "description": "Todo: successful_open_play_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "long_pass_own_to_opp_success",
+          "value": 53.0,
+          "description": "Todo: long_pass_own_to_opp_success",
+          "additionalInfo": {}
+        },
+        {
+          "name": "rightside_pass",
+          "value": 141.0,
+          "description": "Todo: rightside_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "put_through",
+          "value": 27.0,
+          "description": "Todo: put_through",
+          "additionalInfo": {}
+        },
+        {
+          "name": "dispossessed",
+          "value": 18.0,
+          "description": "Todo: dispossessed",
+          "additionalInfo": {}
+        },
+        {
+          "name": "passes_right",
+          "value": 78.0,
+          "description": "Todo: passes_right",
+          "additionalInfo": {}
+        },
+        {
+          "name": "accurate_back_zone_pass",
+          "value": 254.0,
+          "description": "Todo: accurate_back_zone_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "blocked_pass",
+          "value": 10.0,
+          "description": "Todo: blocked_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "accurate_pass",
+          "value": 466.0,
+          "description": "Todo: accurate_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "fk_foul_lost",
+          "value": 11.0,
+          "description": "Todo: fk_foul_lost",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_flick_on",
+          "value": 7.0,
+          "description": "Todo: total_flick_on",
+          "additionalInfo": {}
+        },
+        {
+          "name": "successful_put_through",
+          "value": 10.0,
+          "description": "Todo: successful_put_through",
+          "additionalInfo": {}
+        },
+        {
+          "name": "leftside_pass",
+          "value": 141.0,
+          "description": "Todo: leftside_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "accurate_fwd_zone_pass",
+          "value": 218.0,
+          "description": "Todo: accurate_fwd_zone_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "successful_final_third_passes",
+          "value": 87.0,
+          "description": "Todo: successful_final_third_passes",
+          "additionalInfo": {}
+        },
+        {
+          "name": "effective_blocked_cross",
+          "value": 2.0,
+          "description": "Todo: effective_blocked_cross",
+          "additionalInfo": {}
+        },
+        {
+          "name": "lost_corners",
+          "value": 5.0,
+          "description": "Todo: lost_corners",
+          "additionalInfo": {}
+        },
+        {
+          "name": "blocked_cross",
+          "value": 2.0,
+          "description": "Todo: blocked_cross",
+          "additionalInfo": {}
+        },
+        {
+          "name": "accurate_long_balls",
+          "value": 27.0,
+          "description": "Todo: accurate_long_balls",
+          "additionalInfo": {}
+        },
+        {
+          "name": "outfielder_block",
+          "value": 3.0,
+          "description": "Todo: outfielder_block",
+          "additionalInfo": {}
+        },
+        {
+          "name": "attempts_conceded_obox",
+          "value": 4.0,
+          "description": "Todo: attempts_conceded_obox",
+          "additionalInfo": {}
+        },
+        {
+          "name": "accurate_goal_kicks",
+          "value": 5.0,
+          "description": "Todo: accurate_goal_kicks",
+          "additionalInfo": {}
+        },
+        {
+          "name": "pen_area_entries",
+          "value": 25.0,
+          "description": "Todo: pen_area_entries",
+          "additionalInfo": {}
+        },
+        {
+          "name": "goal_kicks",
+          "value": 6.0,
+          "description": "Todo: goal_kicks",
+          "additionalInfo": {}
+        },
+        {
+          "name": "touches_in_opp_box",
+          "value": 33.0,
+          "description": "Todo: touches_in_opp_box",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_layoffs",
+          "value": 6.0,
+          "description": "Todo: total_layoffs",
+          "additionalInfo": {}
+        },
+        {
+          "name": "overrun",
+          "value": 3.0,
+          "description": "Todo: overrun",
+          "additionalInfo": {}
+        },
+        {
+          "name": "attempted_tackle_foul",
+          "value": 6.0,
+          "description": "Todo: attempted_tackle_foul",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_contest",
+          "value": 17.0,
+          "description": "Todo: total_contest",
+          "additionalInfo": {}
+        },
+        {
+          "name": "accurate_layoffs",
+          "value": 6.0,
+          "description": "Todo: accurate_layoffs",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_scoring_att",
+          "value": 24.0,
+          "description": "Todo: total_scoring_att",
+          "additionalInfo": {}
+        },
+        {
+          "name": "attempts_ibox",
+          "value": 17.0,
+          "description": "Todo: attempts_ibox",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_lf_total",
+          "value": 6.0,
+          "description": "Todo: att_lf_total",
+          "additionalInfo": {}
+        },
+        {
+          "name": "won_contest",
+          "value": 13.0,
+          "description": "Todo: won_contest",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_bx_left",
+          "value": 2.0,
+          "description": "Todo: att_bx_left",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_ibox_blocked",
+          "value": 5.0,
+          "description": "Todo: att_ibox_blocked",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_openplay",
+          "value": 16.0,
+          "description": "Todo: att_openplay",
+          "additionalInfo": {}
+        },
+        {
+          "name": "blocked_scoring_att",
+          "value": 8.0,
+          "description": "Todo: blocked_scoring_att",
+          "additionalInfo": {}
+        },
+        {
+          "name": "accurate_launches",
+          "value": 3.0,
+          "description": "Todo: accurate_launches",
+          "additionalInfo": {}
+        },
+        {
+          "name": "won_corners",
+          "value": 5.0,
+          "description": "Todo: won_corners",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_cross",
+          "value": 17.0,
+          "description": "Todo: total_cross",
+          "additionalInfo": {}
+        },
+        {
+          "name": "corner_taken",
+          "value": 5.0,
+          "description": "Todo: corner_taken",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_assist_openplay",
+          "value": 15.0,
+          "description": "Todo: att_assist_openplay",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_tackle",
+          "value": 21.0,
+          "description": "Todo: total_tackle",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_att_assist",
+          "value": 20.0,
+          "description": "Todo: total_att_assist",
+          "additionalInfo": {}
+        },
+        {
+          "name": "ontarget_att_assist",
+          "value": 13.0,
+          "description": "Todo: ontarget_att_assist",
+          "additionalInfo": {}
+        },
+        {
+          "name": "won_tackle",
+          "value": 9.0,
+          "description": "Todo: won_tackle",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_corners_intobox",
+          "value": 5.0,
+          "description": "Todo: total_corners_intobox",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_obox_blocked",
+          "value": 3.0,
+          "description": "Todo: att_obox_blocked",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_rf_total",
+          "value": 13.0,
+          "description": "Todo: att_rf_total",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_bx_centre",
+          "value": 9.0,
+          "description": "Todo: att_bx_centre",
+          "additionalInfo": {}
+        },
+        {
+          "name": "attempts_obox",
+          "value": 7.0,
+          "description": "Todo: attempts_obox",
+          "additionalInfo": {}
+        },
+        {
+          "name": "crosses_18yard",
+          "value": 6.0,
+          "description": "Todo: crosses_18yard",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_cross_nocorner",
+          "value": 12.0,
+          "description": "Todo: total_cross_nocorner",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_obx_centre",
+          "value": 7.0,
+          "description": "Todo: att_obx_centre",
+          "additionalInfo": {}
+        },
+        {
+          "name": "ontarget_scoring_att",
+          "value": 8.0,
+          "description": "Todo: ontarget_scoring_att",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_rf_target",
+          "value": 4.0,
+          "description": "Todo: att_rf_target",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_bx_right",
+          "value": 2.0,
+          "description": "Todo: att_bx_right",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_ibox_target",
+          "value": 5.0,
+          "description": "Todo: att_ibox_target",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_sv_low_left",
+          "value": 2.0,
+          "description": "Todo: att_sv_low_left",
+          "additionalInfo": {}
+        },
+        {
+          "name": "accurate_through_ball",
+          "value": 1.0,
+          "description": "Todo: accurate_through_ball",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_through_ball",
+          "value": 1.0,
+          "description": "Todo: total_through_ball",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_obox_target",
+          "value": 2.0,
+          "description": "Todo: att_obox_target",
+          "additionalInfo": {}
+        },
+        {
+          "name": "crosses_18yardplus",
+          "value": 3.0,
+          "description": "Todo: crosses_18yardplus",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_sv_high_right",
+          "value": 1.0,
+          "description": "Todo: att_sv_high_right",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_offside",
+          "value": 2.0,
+          "description": "Todo: total_offside",
+          "additionalInfo": {}
+        },
+        {
+          "name": "accurate_cross",
+          "value": 6.0,
+          "description": "Todo: accurate_cross",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_ibox_miss",
+          "value": 6.0,
+          "description": "Todo: att_ibox_miss",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_assist_setplay",
+          "value": 4.0,
+          "description": "Todo: att_assist_setplay",
+          "additionalInfo": {}
+        },
+        {
+          "name": "offtarget_att_assist",
+          "value": 7.0,
+          "description": "Todo: offtarget_att_assist",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_corner",
+          "value": 3.0,
+          "description": "Todo: att_corner",
+          "additionalInfo": {}
+        },
+        {
+          "name": "shot_off_target",
+          "value": 8.0,
+          "description": "Todo: shot_off_target",
+          "additionalInfo": {}
+        },
+        {
+          "name": "accurate_corners_intobox",
+          "value": 2.0,
+          "description": "Todo: accurate_corners_intobox",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_miss_right",
+          "value": 4.0,
+          "description": "Todo: att_miss_right",
+          "additionalInfo": {}
+        },
+        {
+          "name": "challenge_lost",
+          "value": 2.0,
+          "description": "Todo: challenge_lost",
+          "additionalInfo": {}
+        },
+        {
+          "name": "attempts_conceded_ibox",
+          "value": 4.0,
+          "description": "Todo: attempts_conceded_ibox",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_cmiss_high",
+          "value": 1.0,
+          "description": "Todo: att_cmiss_high",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_hd_total",
+          "value": 5.0,
+          "description": "Todo: att_hd_total",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_hd_miss",
+          "value": 3.0,
+          "description": "Todo: att_hd_miss",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_miss_high",
+          "value": 2.0,
+          "description": "Todo: att_miss_high",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_miss_high_left",
+          "value": 1.0,
+          "description": "Todo: att_miss_high_left",
+          "additionalInfo": {}
+        },
+        {
+          "name": "accurate_chipped_pass",
+          "value": 22.0,
+          "description": "Todo: accurate_chipped_pass",
+          "additionalInfo": {}
+        },
+        {
+          "name": "fouled_final_third",
+          "value": 4.0,
+          "description": "Todo: fouled_final_third",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_setpiece",
+          "value": 4.0,
+          "description": "Todo: att_setpiece",
+          "additionalInfo": {}
+        },
+        {
+          "name": "poss_won_att_3rd",
+          "value": 4.0,
+          "description": "Todo: poss_won_att_3rd",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_obox_miss",
+          "value": 2.0,
+          "description": "Todo: att_obox_miss",
+          "additionalInfo": {}
+        },
+        {
+          "name": "saves",
+          "value": 1.0,
+          "description": "Todo: saves",
+          "additionalInfo": {}
+        },
+        {
+          "name": "accurate_keeper_throws",
+          "value": 5.0,
+          "description": "Todo: accurate_keeper_throws",
+          "additionalInfo": {}
+        },
+        {
+          "name": "keeper_throws",
+          "value": 5.0,
+          "description": "Todo: keeper_throws",
+          "additionalInfo": {}
+        },
+        {
+          "name": "saved_obox",
+          "value": 1.0,
+          "description": "Todo: saved_obox",
+          "additionalInfo": {}
+        },
+        {
+          "name": "total_high_claim",
+          "value": 1.0,
+          "description": "Todo: total_high_claim",
+          "additionalInfo": {}
+        },
+        {
+          "name": "good_high_claim",
+          "value": 1.0,
+          "description": "Todo: good_high_claim",
+          "additionalInfo": {}
+        },
+        {
+          "name": "accurate_cross_nocorner",
+          "value": 4.0,
+          "description": "Todo: accurate_cross_nocorner",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_lf_goal",
+          "value": 1.0,
+          "description": "Todo: att_lf_goal",
+          "additionalInfo": {}
+        },
+        {
+          "name": "accurate_flick_on",
+          "value": 4.0,
+          "description": "Todo: accurate_flick_on",
+          "additionalInfo": {}
+        },
+        {
+          "name": "goals",
+          "value": 1.0,
+          "description": "Todo: goals",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_ibox_goal",
+          "value": 1.0,
+          "description": "Todo: att_ibox_goal",
+          "additionalInfo": {}
+        },
+        {
+          "name": "forward_goals",
+          "value": 1.0,
+          "description": "Todo: forward_goals",
+          "additionalInfo": {}
+        },
+        {
+          "name": "goals_openplay",
+          "value": 1.0,
+          "description": "Todo: goals_openplay",
+          "additionalInfo": {}
+        },
+        {
+          "name": "big_chance_scored",
+          "value": 1.0,
+          "description": "Todo: big_chance_scored",
+          "additionalInfo": {}
+        },
+        {
+          "name": "big_chance_created",
+          "value": 2.0,
+          "description": "Todo: big_chance_created",
+          "additionalInfo": {}
+        },
+        {
+          "name": "goal_assist_openplay",
+          "value": 1.0,
+          "description": "Todo: goal_assist_openplay",
+          "additionalInfo": {}
+        },
+        {
+          "name": "goal_assist",
+          "value": 1.0,
+          "description": "Todo: goal_assist",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_goal_low_centre",
+          "value": 1.0,
+          "description": "Todo: att_goal_low_centre",
+          "additionalInfo": {}
+        },
+        {
+          "name": "goal_assist_intentional",
+          "value": 1.0,
+          "description": "Todo: goal_assist_intentional",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_freekick_total",
+          "value": 1.0,
+          "description": "Todo: att_freekick_total",
+          "additionalInfo": {}
+        },
+        {
+          "name": "freekick_cross",
+          "value": 3.0,
+          "description": "Todo: freekick_cross",
+          "additionalInfo": {}
+        },
+        {
+          "name": "accurate_freekick_cross",
+          "value": 3.0,
+          "description": "Todo: accurate_freekick_cross",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_hd_target",
+          "value": 2.0,
+          "description": "Todo: att_hd_target",
+          "additionalInfo": {}
+        },
+        {
+          "name": "big_chance_missed",
+          "value": 1.0,
+          "description": "Todo: big_chance_missed",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_lf_target",
+          "value": 1.0,
+          "description": "Todo: att_lf_target",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_sv_low_centre",
+          "value": 4.0,
+          "description": "Todo: att_sv_low_centre",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_cmiss_left",
+          "value": 1.0,
+          "description": "Todo: att_cmiss_left",
+          "additionalInfo": {}
+        },
+        {
+          "name": "att_miss_left",
+          "value": 1.0,
+          "description": "Todo: att_miss_left",
+          "additionalInfo": {}
+        },
+        {
+          "name": "subs_made",
+          "value": 1.0,
+          "description": "Todo: subs_made",
+          "additionalInfo": {}
+        },
+        {
+          "name": "interceptions_in_box",
+          "value": 1.0,
+          "description": "Todo: interceptions_in_box",
+          "additionalInfo": {}
+        },
+        {
+          "name": "clean_sheet",
+          "value": 1.0,
+          "description": "Todo: clean_sheet",
+          "additionalInfo": {}
+        },
+        {
+          "name": "wins",
+          "value": 1.0,
+          "description": "Todo: wins",
+          "additionalInfo": {}
+        }
+      ]
+    }
+  },
+  "type": "match",
+  "events": [
+    {
+      "id": 139446,
+      "personId": 16788,
+      "teamId": 6,
+      "assistId": 5595,
+      "clock": {
+        "secs": 2940,
+        "label": "49'00"
+      },
+      "phase": "2",
+      "type": "G",
+      "description": "G",
+      "time": {
+        "millis": 1691852882000,
+        "label": "12 August 2023, 16:08",
+        "gmtOffset": 1.0
+      },
+      "score": {
+        "homeScore": 0,
+        "awayScore": 1
+      }
+    }
+  ]
+}
